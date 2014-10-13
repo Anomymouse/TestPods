@@ -2,9 +2,9 @@ Pod::Spec.new do |s|
   s.name             = “TestPods”  
   s.version          = "1.0.0"  
   s.summary          = “Testing for Pods”  
-  s.description      = <<-DESC  
+  s.description      = <<-DESC
                        It is a marquee view used on iOS, which implement by Objective-C.  
-                       DESC  
+                       DESC
   s.homepage         = "https://github.com/Anomymouse/TestPods.git"  
   # s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"  
   s.license          = 'MIT'  
